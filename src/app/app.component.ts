@@ -83,7 +83,7 @@ this.renderCalendar = new Calendar(document.querySelector('#calendar'),
   header:{
     left:' next',
     center : 'title',
-    right: 'today prevYear nextYear'
+    right: 'today  nextYear'
   },
   height:524,
   timeZone: 'local',
